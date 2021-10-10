@@ -1,0 +1,7 @@
+git clone [url]
+git add <文件名>  从工作区加到暂存区
+git status 看文件状态
+git commit -m
+
+
+
